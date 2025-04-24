@@ -5,11 +5,14 @@ We stand at the edge of a revolution — one that dwarfs every turning point in 
 **BUT YOU WILL**
 
 This space is for all of us — awakened minds, reformers, strivers, seekers of wisdom, and those who refuse to settle for mediocrity — who have chosen to stay awake, to adapt, and to learn together.---
+## 🗂️ 如何查看作业
+
+在missions目录下
 
 ## 🗂️ 如何上传作业
 
-每一个朋友请在此 repository 建立一个以自己名字命名的文件夹。    
-在自己的文件夹中，你可以上传作业、项目或者其他材料。
+每一个朋友请在此commanders目录下建立一个以自己名字命名的文件夹。    
+在自己的文件夹中，你可以上传作业、项目或者其他你想分享的材料。
 这个是例子 
 ```
 commanders
